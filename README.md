@@ -1,6 +1,6 @@
 
 
-👋 Hello and welcome to the official GitHub page of Tehran Institute of Technology (Varamin branch)!
+👋 Hello and welcome to the official GitHub page of Tehran Institute of Technology (MFT), Varamin branch!
 
 We are thrilled to have you here and excited to share with you our passion for education and technology.
 
